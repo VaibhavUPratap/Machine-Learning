@@ -138,16 +138,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 *Happy Learning!*
 
-Citations:
-[1] https://github.com/catiaspsilva/README-template
-[2] https://github.com/othneildrew/Best-README-Template
-[3] https://github.com/KalyanM45/Data-Science-Project-Readme-Template
-[4] https://github.com/anujonthemove/Python-Machine-Learning-Template
-[5] https://github.com/eddiepease/ml-template
-[6] https://github.com/L1aoXingyu/Deep-Learning-Project-Template/blob/master/README.md
-[7] https://github.com/ethen8181/machine-learning/blob/master/README.md
-[8] https://github.com/mirsazzathossain/mirsazzathossain
-[9] https://github.com/topics/machine-learning-projects
-[10] https://github.com/sfbrigade/data-science-wg/blob/master/dswg_project_resources/Project-README-template.md
-
 ---
