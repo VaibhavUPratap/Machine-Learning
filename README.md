@@ -31,11 +31,12 @@ This repository is a collection of Jupyter notebooks and scripts as I explore ma
 Machine-Learning/
 │
 ├── SupervisedLearning/
-│   ├── LinearRegression.ipynb
-│   ├── LogisticRegression.ipynb
+│   ├── LinearRegression
+│   ├── LogisticRegression
+│   ├── DecisionTrees
 │   └── ...
 ├── UnsupervisedLearning/
-│   └── KMeansClustering.ipynb
+│   └── KMeansClustering
 ├── data/
 │   └── (datasets or links)
 ├── requirements.txt
