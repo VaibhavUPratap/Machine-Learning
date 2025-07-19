@@ -34,6 +34,7 @@ Machine-Learning/
 │   ├── LinearRegression
 │   ├── LogisticRegression
 │   ├── DecisionTrees
+│   ├── SupportVectorMachine
 │   └── ...
 ├── UnsupervisedLearning/
 │   └── KMeansClustering
