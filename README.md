@@ -35,17 +35,16 @@ Machine-Learning/
 │   ├── LogisticRegression
 │   ├── DecisionTrees
 │   ├── SupportVectorMachine
-│   └── ...
+│   └── NaiveBayes
+│   └── KNearestNeighbors
+│   └── RandomForest
 ├── UnsupervisedLearning/
 │   └── KMeansClustering
-├── data/
-│   └── (datasets or links)
 ├── requirements.txt
 └── README.md
 ```
 - **SupervisedLearning/**: Notebooks and scripts for regression and classification algorithms.
 - **UnsupervisedLearning/**: Notebooks for clustering and dimensionality reduction.
-- **data/**: Sample datasets or links to datasets used.
 - **requirements.txt**: List of dependencies.
 - **README.md**: This file.
 
